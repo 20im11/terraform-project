@@ -1,1 +1,1 @@
-"es kodi aris uaxlesi" 
+Terraform + AWS საფინალო პროექტი
